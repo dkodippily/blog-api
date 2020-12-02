@@ -4,7 +4,7 @@
   # Main technologies
   Java 11, SpringBoot REST, Swagger, React, Ant-design UI library
   
-  # Build and Running
+# Build and Running
   Unzip the Archive.zip, find frontend and backend application folders blog and postdisplay-api.
   
   # Running Backend API
