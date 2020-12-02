@@ -38,11 +38,3 @@
   I have added one Unit test to show the approach and how we can Mock the services.
   
   Sawagger is used to document the API
- 
-  
-  
- 
-  
-  
- 
-
